@@ -1,0 +1,5 @@
+C:\Work\Ribbon\bin\Debug\Ribbon.dll
+C:\Work\Ribbon\bin\Debug\Ribbon.pdb
+C:\Work\Ribbon\obj\Debug\Ribbon.csprojResolveAssemblyReference.cache
+C:\Work\Ribbon\obj\Debug\Ribbon.dll
+C:\Work\Ribbon\obj\Debug\Ribbon.pdb

@@ -1,0 +1,5 @@
+C:\Work\RibbonGenerator\RibbonGenerator\bin\Release\RibbonGenerator.dll
+C:\Work\RibbonGenerator\RibbonGenerator\bin\Release\RibbonGenerator.pdb
+C:\Work\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.csprojResolveAssemblyReference.cache
+C:\Work\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.dll
+C:\Work\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.pdb
