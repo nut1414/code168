@@ -77,7 +77,7 @@
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <ApplicationIcon>head_ev0_icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Ribbon, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -247,6 +247,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Resources\Ext1-01.png" />
+    <Content Include="head_ev0_icon.ico" />
     <Content Include="icon.ico" />
     <None Include="Resources\icon.ico" />
     <None Include="Resources\icon.png" />

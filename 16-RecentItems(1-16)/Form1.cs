@@ -1188,6 +1188,9 @@ namespace _16_RecentItems
             }
         }
 
+		private void _ribbon_Click(object sender, EventArgs e)
+		{
 
-    }
+		}
+	}
 }

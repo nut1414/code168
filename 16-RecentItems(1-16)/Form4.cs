@@ -243,7 +243,10 @@ namespace _16_RecentItems
             }
             Program.Globals.map1.load("tileset.png", Program.Globals.opensize, Program.Globals.levelshut, Program.Globals.sx, Program.Globals.sy);
         }
-        
-        
-    }
+
+		private void Form4_Load(object sender, EventArgs e)
+		{
+
+		}
+	}
 }

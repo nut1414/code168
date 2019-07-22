@@ -211,7 +211,7 @@ namespace _16_RecentItems
             DialogResult result = openFileDialog1.ShowDialog();
             if (result == DialogResult.OK)
             {
-                if (listView1.Items.Count + openFileDialog1.FileNames.Length <= 15)
+                if (listView1.Items.Count + openFileDialog1.FileNames.Length <= 10)
                 {
                     foreach (String file in openFileDialog1.FileNames)
                     {
@@ -219,9 +219,9 @@ namespace _16_RecentItems
                         listView1.Items[listView1.Items.Count - 1].SubItems.Add(file.ToString());
                     }
                 }
-                else if (listView1.Items.Count + openFileDialog1.FileNames.Length > 15)
+                else if (listView1.Items.Count + openFileDialog1.FileNames.Length > 10)
                 {
-                    MessageBox.Show("Max is 15 codes per page.");
+                    MessageBox.Show("Max is 10 codes per page.");
                 }
             }
             for (int check = 1; check <= Convert.ToInt32(listView1.Items.Count.ToString()); ++check)

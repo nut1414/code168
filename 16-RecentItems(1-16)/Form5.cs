@@ -269,12 +269,12 @@ namespace _16_RecentItems
                 }
                 Graphics text = Graphics.FromImage(a4);
                 text.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
-                text.DrawString("Bangkok Christian College(1:16)", new Font("Quark", 25), Brushes.Black, new PointF(30, 30));
+                text.DrawString("Bangkok Christian College(1:16)", new Font("Quark", 24), Brushes.Black, new PointF(30, 30));
                 int column = (int)(x);
                 int row = (int)(y - 1);
                 string alpha = Char.ConvertFromUtf32(row + 65);
                 string columns = column.ToString();
-                text.DrawString("Row: " + alpha + "  Column: " + columns, new Font("Quark", 25), Brushes.Black, new PointF(1450, 30));
+                text.DrawString("Row: " + alpha + " Column: " + columns, new Font("Quark", 24), Brushes.Black, new PointF(1450, 30));
                 //a4.Save("d:/dd/" + "Row " + alpha + " Column " + columns + ".png", ImageFormat.Png);
                 e.Graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
                 e.Graphics.DrawImage(a4, 0, 0);

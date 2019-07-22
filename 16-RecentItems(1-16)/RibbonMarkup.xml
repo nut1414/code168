@@ -142,11 +142,11 @@
         <Image Source="Res/dimmer.bmp"/>
       </Command.LargeImages>
     </Command>
-    <Command Name="Tools_Text" Id="10009" LabelTitle="Text">
+    <!--<Command Name="Tools_Text" Id="10009" LabelTitle="Text">
       <Command.LargeImages>
         <Image Source="Res/text.bmp"/>
       </Command.LargeImages>
-    </Command>
+    </Command>-->
     <Command Name="Fill" Id="10014" LabelTitle="Fill background with Color">
       <Command.LargeImages>
         <Image Source="Res/fill.bmp"/>

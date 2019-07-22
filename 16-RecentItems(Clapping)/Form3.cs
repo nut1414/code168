@@ -540,7 +540,12 @@ namespace _16_RecentItems
                 --Program.Globals.curcolor;
             }
         }
-    }
+
+		private void panel1_Paint(object sender, PaintEventArgs e)
+		{
+
+		}
+	}
 
 }
 

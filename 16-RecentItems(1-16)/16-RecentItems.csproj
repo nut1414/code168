@@ -77,7 +77,7 @@
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Photo-on-17-11-2560-BE-at-12.08.ico</ApplicationIcon>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Ribbon, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -247,11 +247,14 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Resources\Ext1-01.png" />
+    <Content Include="icon.ico" />
     <Content Include="Photo-on-17-11-2560-BE-at-12.08.ico" />
     <None Include="Resources\icon.bmp" />
-    <None Include="Resources\Photo-on-17-11-2560-BE-at-12.08.ico" />
     <None Include="Resources\Icon1.ico" />
     <None Include="Resources\icon.png" />
+    <None Include="Resources\Capture.bmp" />
+    <None Include="Resources\Capture.PNG" />
+    <None Include="Resources\head.png" />
     <Content Include="RibbonMarkup.xml">
       <Generator>RibbonGenerator</Generator>
       <LastGenOutput>RibbonMarkup.log</LastGenOutput>

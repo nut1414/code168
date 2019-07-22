@@ -153,7 +153,7 @@ namespace _16_RecentItems
                 int row = (int)(y - 1);
                 string alpha = Char.ConvertFromUtf32(row + 65);
                 string columns = column.ToString();
-                text.DrawString("Row:  " + alpha + "  Column: " + columns, new Font("Quark", 25), Brushes.Black, new PointF(1450, 30));
+                text.DrawString("Row: " + alpha + " Column: " + columns, new Font("Quark", 25), Brushes.Black, new PointF(1450, 30));
                 //a4.Save("d:/dd/" + "Row " + alpha + " Column " + columns + ".png", ImageFormat.Png);
                 e.Graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
                 e.Graphics.DrawImage(a4, 0, 0);
