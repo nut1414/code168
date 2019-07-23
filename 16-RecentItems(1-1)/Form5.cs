@@ -115,11 +115,11 @@ namespace _16_RecentItems
                         }
                         else if (table.ToString().Length == 2)
                         {
-                            a44.DrawString(table.ToString(), new Font("Quark", 20), Brushes.Black, new PointF(220 * posx + 170, (200) * (posy) + 200));
+                            a44.DrawString(table.ToString(), new Font("Quark", 20), Brushes.Black, new PointF(220 * posx + 150, (200) * (posy) + 200));
                         }
                         else if (table.ToString().Length == 3)
                         {
-                            a44.DrawString(table.ToString(), new Font("Quark", 20), Brushes.Black, new PointF(220 * posx + 160, (200) * (posy) + 200));
+                            a44.DrawString(table.ToString(), new Font("Quark", 20), Brushes.Black, new PointF(220 * posx + 140, (200) * (posy) + 200));
                         }
                         //making leading
                         Bitmap myBitmap2 = new Bitmap("Res/table.png");
@@ -135,7 +135,7 @@ namespace _16_RecentItems
                         //a44.DrawString((table).ToString(), new Font("Quark", 12), Brushes.Black, new PointF((120) * (int)(x-1) + 500, 220 + (int)(y-1) * 200));
                         string number = (Program.Globals.levelprint[((int)(y - 1) * Program.Globals.dx[table - 1]) + (int)(x - 1)]).ToString();
                         if (number == "0") number = " ";
-                        g.DrawString(number, new Font("Quark", 20), Brushes.Black, new PointF(20, 20));
+                        g.DrawString(number, new Font("Quark", 19), Brushes.Black, new PointF(10, 20));
                         a44.DrawImage(myBitmap, new Point((220) * (posx) + 150,(200) * (posy) + 280));
                         myBitmap.Dispose();
                         if (posx == 9)
