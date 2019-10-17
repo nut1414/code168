@@ -108,7 +108,7 @@ namespace _16_RecentItems
                     {
                         Bitmap myBitmap;
 						//xcounter and ycounter
-						if (((y >= 1) && (y <= 13) || ((y >= 19) && (y <= 26))) && x == 22) //dude experiment
+						if ((((y >= 1) && (y <= 13)) || ((y >= 19) && (y <= 26))) && x == 22) //dude experiment
 
 						{
 							myBitmap = new Bitmap("Res/table.png");
