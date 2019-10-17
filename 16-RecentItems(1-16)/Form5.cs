@@ -108,9 +108,10 @@ namespace _16_RecentItems
                     {
                         Bitmap myBitmap;
                         //xcounter and ycounter
-                        if(((y == 13 || ((y >= 19) && (y <= 25))) && x == 20))
-                        {
-                            myBitmap = new Bitmap("Res/table22.png");
+                        if (((y == 13 || ((y >= 19) && (y <= 25))) && x == 20))
+
+						{
+                            myBitmap = new Bitmap("Res/table23.png");
                             Graphics g = Graphics.FromImage(myBitmap);
                             g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
                             for (int j = 0; j <= 3; ++j)
@@ -122,11 +123,11 @@ namespace _16_RecentItems
 
                                     if (number.Length == 1)
                                     {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(157 + i * 68, 9 + j * 78));
+                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(167 + i * 68, 9 + j * 78));
                                     }
                                     else if (number.Length == 2)
                                     {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(145 + i * 68, 9 + j * 78));
+                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(159 + i * 68, 9 + j * 78));
                                     }
                                 }
                             }
@@ -134,7 +135,7 @@ namespace _16_RecentItems
                             {
                                 for (int i = 0; i <= 1; ++i)
                                 {
-                                    int index = (j) * Program.Globals.dx[table - 1] * 4 + (int)(y-1) * Program.Globals.dx[table - 1] * 16 + (int)(x) * 4 + (i);
+                                    int index = (j) * Program.Globals.dx[table - 1] * 4 + (int)(y-1) * Program.Globals.dx[table + 1] * 16 + (int)(x) * 4 + (i);
                                     string number = (Program.Globals.levelprint[index] + 1).ToString();
 
                                     if (number.Length == 1)
@@ -151,14 +152,15 @@ namespace _16_RecentItems
                             
                         }
                         //321 319
-                        else if (((y == 13 || ((y >= 19) && (y <= 25))) && x == 22))
-                        {
+                        else if   (((y == 13 || ((y >= 19) && (y <= 25))) && x == 22))
+
+						{
                             myBitmap = new Bitmap("Res/table22.png");
                             Graphics g = Graphics.FromImage(myBitmap);
                             g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
                             for (int j = 0; j <= 3; ++j)
                             {
-                                for (int i = 0; i <= 1; ++i)
+                                for (int i = 0; i <= 1; ++i)//extra table ex
                                 {
                                     //fix index[NOT CHECK YET]
                                     int index = (j) * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x-2) * 4 + (i+2);
@@ -201,7 +203,7 @@ namespace _16_RecentItems
                             g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
                             for (int j = 0; j <= 3; ++j)
                             {
-                                for (int i = 0; i <= 5; ++i)
+                                for (int i = 0; i <= 5; ++i)//table ex
                                 {
                                     int index = j * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x - 1) * 4 + i;
                                     string number = (Program.Globals.levelprint[index] + 1).ToString();
@@ -230,29 +232,12 @@ namespace _16_RecentItems
                         a44.DrawImage(myBitmap, new Point((465) * (honx - 1) + 80, (410) * (very) + 225));
                         if (Program.Globals.levelshut[last1] != 0)
                         {
-                            if ((((y == 13 || ((y >= 19) && (y <= 25))) && ((x == 22) || (x == 20)))))
-                            {
-                                a44.DrawImage(myBitmap1, new Point((30 + 435) * (honx - 1) + 400, (410) * (very) + 143));
-                            }
-                            else
-                            {
+                            
                                 a44.DrawImage(myBitmap1, new Point((30 + 435) * (honx - 1) + 400, (410) * (very) + 463));
-                            }
+                            
                         }
                         a44.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
-                        if (((y == 13 || ((y >= 19) && (y <= 25))) && x == 22 || x == 20))
-                        {
-                            if (table.ToString().Length == 1)
-                            {
-                                a44.DrawString(table.ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 282, (410) * (very) + 161));
-                            }
-                            else if (table.ToString().Length == 2)
-                            {
-                                a44.DrawString(table.ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 270, (410) * (very) + 161));
-                            }
-                        }
-                        else
-                        {
+                        
                             if (table.ToString().Length == 1)
                             {
                                 a44.DrawString(table.ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 220, (410) * (very) + 161));
@@ -261,7 +246,7 @@ namespace _16_RecentItems
                             {
                                 a44.DrawString(table.ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 210, (410) * (very) + 161));
                             }
-                        }
+                        
                         
                         myBitmap.Dispose();
                         myBitmap1.Dispose();

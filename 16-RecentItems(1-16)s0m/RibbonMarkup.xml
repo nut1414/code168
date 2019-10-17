@@ -1,0 +1,263 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<Application xmlns='http://schemas.microsoft.com/windows/2009/Ribbon'>
+  <Application.Commands>
+
+    <Command Name="cmdApplicationMenu" Id="1000" />
+
+    <Command Name="cmdButtonNew"
+				 Id="1001"
+				 LabelTitle="&amp;New"
+				 LabelDescription="New Description"
+				 TooltipTitle="New"
+				 TooltipDescription="Create.">
+      <Command.LargeImages>
+        <Image>Res/New32.bmp</Image>
+      </Command.LargeImages>
+      <Command.SmallImages>
+        <Image>Res/New16.bmp</Image>
+      </Command.SmallImages>
+    </Command>
+    
+    <Command Name="cmdButtonOpen"
+				 Id="1002"
+				 LabelTitle="Open"
+				 LabelDescription="Open Description"
+				 TooltipTitle="Open"
+				 TooltipDescription="Open.">
+      <Command.LargeImages>
+        <Image>Res/Open32.bmp</Image>
+      </Command.LargeImages>
+      <Command.SmallImages>
+        <Image>Res/Open16.bmp</Image>
+      </Command.SmallImages>
+    </Command>
+    
+    <Command Name="cmdButtonSave"
+				 Id="1003"
+				 LabelTitle="Save As"
+				 LabelDescription="Save Description"
+				 TooltipTitle="Save As"
+				 TooltipDescription="Save As.">
+      <Command.LargeImages>
+        <Image>Res/Save32.bmp</Image>
+      </Command.LargeImages>
+      <Command.SmallImages>
+        <Image>Res/Save16.bmp</Image>
+      </Command.SmallImages>
+    </Command>
+
+    <Command Name="cmdButtonSaveAs"
+     Id="10021"
+     LabelTitle="Save"
+     LabelDescription="Save Description"
+     TooltipTitle="Save "
+     TooltipDescription="Save.">
+      <Command.LargeImages>
+        <Image>Res/Save32.bmp</Image>
+      </Command.LargeImages>
+      <Command.SmallImages>
+        <Image>Res/Save16.bmp</Image>
+      </Command.SmallImages>
+    </Command>
+    
+    <Command Name="cmdButtonExit"
+				 Id="1004"
+				 LabelTitle="Exit"
+				 LabelDescription="Exit Description"
+				 TooltipTitle="Exit"
+				 TooltipDescription="Exit application.">
+      <Command.LargeImages>
+        <Image>Res/Exit32.bmp</Image>
+      </Command.LargeImages>
+      <Command.SmallImages>
+        <Image>Res/Exit16.bmp</Image>
+      </Command.SmallImages>
+    </Command>
+
+    <Command Name="cmdPrint"
+				 Id="1006"
+				 LabelTitle="Print"
+				 LabelDescription="Print"
+				 TooltipTitle="Print"
+				 TooltipDescription="Print.">
+      <Command.LargeImages>
+        <Image>Res/print.bmp</Image>
+      </Command.LargeImages>
+    </Command>
+    
+    <Command Name="Import"
+				 Id="1007"
+				 LabelTitle="Import"
+				 LabelDescription="Import"
+				 TooltipTitle="Import"
+				 TooltipDescription="Import.">
+      <Command.LargeImages>
+        <Image>Res/import.bmp</Image>
+      </Command.LargeImages>
+    </Command>
+
+    <Command Name="Export"
+				 Id="1008"
+				 LabelTitle="Export"
+				 LabelDescription="Export"
+				 TooltipTitle="Export"
+				 TooltipDescription="Export.">
+      <Command.LargeImages>
+        <Image>Res/export.bmp</Image>
+      </Command.LargeImages>
+    </Command>
+    
+    <Command Name="cmdRecentItems" Id="1005" LabelTitle="Recent Items" />
+
+    <Command Name="Tab1" Id="59001" LabelTitle="Home">
+      <Command.LargeImages/>
+    </Command>
+    <Command Name="Group_Do" Id="10002" LabelTitle="Undo,Redo">
+      <Command.LargeImages/>
+    </Command>
+    <Command Name="Group_New" Id="10023" LabelTitle="File">
+      <Command.LargeImages/>
+    </Command>
+    <Command Name="Group_Else" Id="10020" LabelTitle="Else">
+      <Command.LargeImages/>
+    </Command>
+    <Command Name="Group_Tools" Id="10005" LabelTitle="Tools"/>
+    <Command Name="Tools_Paint" Id="10006" LabelTitle="DragPaint">
+      <Command.LargeImages>
+        <Image Source="Res/paint.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <Command Name="Tools_norPaint" Id="10025" LabelTitle="Paint">
+      <Command.LargeImages>
+        <Image Source="Res/norpaint.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <Command Name="Tools_Eraser" Id="10007" LabelTitle="Eraser">
+      <Command.LargeImages>
+        <Image Source="Res/eraser.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <Command Name="Tools_Dimmer" Id="10008" LabelTitle="Dimmer">
+      <Command.LargeImages>
+        <Image Source="Res/dimmer.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <!--<Command Name="Tools_Text" Id="10009" LabelTitle="Text">
+      <Command.LargeImages>
+        <Image Source="Res/text.bmp"/>
+      </Command.LargeImages>
+    </Command>-->
+    <Command Name="Fill" Id="10014" LabelTitle="Fill background with Color">
+      <Command.LargeImages>
+        <Image Source="Res/fill.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <Command Name="About" Id="10019" LabelTitle="About">
+      <Command.LargeImages>
+        <Image Source="Res/about.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <Command Name="Tab2" Id="10010" LabelTitle="Other"/>
+    <Command Name="Group_Window" Id="10011" LabelTitle="View"/>
+    <Command Name="Window_Keycolor" Id="10012" LabelTitle="Load and Display Color">
+      <Command.LargeImages>
+        <Image Source="Res/keycolor.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <Command Name="Window_Preview" Id="10013" LabelTitle="Preview all">
+      <Command.LargeImages>
+        <Image Source="Res/preview.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <Command Name="Show_black" Id="10015" LabelTitle="Show Black Lines">
+      <Command.LargeImages>
+        <Image Source="Res/grid1.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <Command Name="Show_gray" Id="10016" LabelTitle="Show Gray Lines">
+      <Command.LargeImages>
+        <Image Source="Res/grid2.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    <Command Name="Openshut_Mode" Id="10017" LabelTitle="Openshut">
+      <Command.LargeImages>
+        <Image Source="Res/grid2.bmp"/>
+      </Command.LargeImages>
+    </Command>
+    
+  </Application.Commands>
+
+  <Application.Views>
+    <Ribbon>
+
+      <Ribbon.Tabs>
+        <Tab CommandName="Tab1">
+          <Tab.ScalingPolicy>
+            <ScalingPolicy>
+              <ScalingPolicy.IdealSizes>
+                <Scale Group="Group_New" Size="Large"/>
+                <Scale Group="Group_Tools" Size="Large"/>
+                <Scale Group="Group_Window" Size="Large"/>
+                <Scale Group="Group_Else" Size="Large"/>
+              </ScalingPolicy.IdealSizes>
+            </ScalingPolicy>
+          </Tab.ScalingPolicy>
+          <Group CommandName="Group_New" SizeDefinition="TwoButtons">
+            <Button CommandName='cmdButtonNew' />
+            <Button CommandName='cmdPrint' />
+          </Group>
+          <Group CommandName="Group_Tools" SizeDefinition="SevenButtons">
+            <ToggleButton CommandName="Tools_norPaint"/>
+            <ToggleButton CommandName="Tools_Paint"/>
+            <ToggleButton CommandName="Tools_Eraser"/>
+            <ToggleButton CommandName="Tools_Dimmer"/>
+            <ToggleButton CommandName="Tools_Text"/>
+            <ToggleButton CommandName="Openshut_Mode"/>
+            <Button CommandName="Fill"/>
+          </Group>
+          <Group CommandName="Group_Window" SizeDefinition="FourButtons">
+            <Button CommandName="Window_Keycolor"/>
+            <Button CommandName="Window_Preview"/>
+            <ToggleButton CommandName="Show_black"/>
+            <ToggleButton CommandName="Show_gray"/>
+          </Group>
+          <Group CommandName="Group_Else" SizeDefinition="ThreeButtons">
+            <Button CommandName='Import' />
+            <Button CommandName='Export' />
+            <Button CommandName="About"/>
+          </Group>
+        </Tab>
+       
+      </Ribbon.Tabs>
+      
+      <Ribbon.QuickAccessToolbar>
+        <QuickAccessToolbar>
+          <QuickAccessToolbar.ApplicationDefaults>
+            <Button CommandName='cmdButtonNew' />
+            <Button CommandName='cmdButtonOpen' />
+            <Button CommandName='cmdButtonSaveAs' />
+            <Button CommandName='cmdPrint' />
+          </QuickAccessToolbar.ApplicationDefaults>
+        </QuickAccessToolbar>
+      </Ribbon.QuickAccessToolbar>
+      
+      <Ribbon.ApplicationMenu>
+        <ApplicationMenu CommandName="cmdApplicationMenu">
+          <MenuGroup>
+            <Button CommandName='cmdButtonNew' />
+            <Button CommandName='cmdButtonOpen' />
+            <Button CommandName='cmdButtonSaveAs' />
+            <Button CommandName='cmdButtonSave' />
+            <Button CommandName='cmdPrint' />
+            <Button CommandName='Import' />
+            <Button CommandName='Export' />
+          </MenuGroup>
+          <MenuGroup>
+            <Button CommandName='cmdButtonExit' />
+          </MenuGroup>
+        </ApplicationMenu>
+      </Ribbon.ApplicationMenu>
+    </Ribbon>
+  </Application.Views>
+
+</Application>

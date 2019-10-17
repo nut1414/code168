@@ -3,3 +3,7 @@ C:\Work\RibbonGenerator\RibbonGenerator\bin\Release\RibbonGenerator.pdb
 C:\Work\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.csprojResolveAssemblyReference.cache
 C:\Work\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.dll
 C:\Work\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\ribbon\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.csprojAssemblyReference.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\ribbon\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\ribbon\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\ribbon\RibbonGenerator\RibbonGenerator\obj\Release\RibbonGenerator.pdb
