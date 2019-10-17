@@ -107,94 +107,52 @@ namespace _16_RecentItems
                     if (x <= Program.Globals.dx[table - 1] && y <= Program.Globals.dy[table - 1])
                     {
                         Bitmap myBitmap;
-                        //xcounter and ycounter
-                        if(((y == 13 || ((y >= 19) && (y <= 25))) && x == 20))
-                        {
-                            myBitmap = new Bitmap("Res/table22.png");
-                            Graphics g = Graphics.FromImage(myBitmap);
-                            g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
-                            for (int j = 0; j <= 3; ++j)
-                            {
-                                for (int i = 0; i <= 3; ++i)
-                                {
-                                    int index = j * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x - 1) * 4 + i;
-                                    string number = (Program.Globals.levelprint[index] + 1).ToString();
+						//xcounter and ycounter
+						if (((y >= 1) && (y <= 13) || ((y >= 19) && (y <= 26))) && x == 22) //dude experiment
 
-                                    if (number.Length == 1)
-                                    {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(157 + i * 68, 9 + j * 78));
-                                    }
-                                    else if (number.Length == 2)
-                                    {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(145 + i * 68, 9 + j * 78));
-                                    }
-                                }
-                            }
-                            for (int j = 0; j <= 3; ++j)
-                            {
-                                for (int i = 0; i <= 1; ++i)
-                                {
-                                    int index = (j) * Program.Globals.dx[table - 1] * 4 + (int)(y-1) * Program.Globals.dx[table - 1] * 16 + (int)(x) * 4 + (i);
-                                    string number = (Program.Globals.levelprint[index] + 1).ToString();
+						{
+							myBitmap = new Bitmap("Res/table.png");
+							Graphics g = Graphics.FromImage(myBitmap);
+							g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
+							for (int j = 0; j <= 3; ++j)
+							{
+								for (int i = 0; i <= 1; ++i)//extra table ex
+								{
+									//major revamp dude  now using one page instead of spliting on to 2 page
+									int index = (j) * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x - 1) * 4 + (i) + 2;
+									string number = (Program.Globals.levelprint[index] + 1).ToString();
 
-                                    if (number.Length == 1)
-                                    {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(16 + i * 68, 9 + j * 78));
-                                    }
-                                    else if (number.Length == 2)
-                                    {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(-2 + i * 68, 9 + j * 78));
-                                    }
-                                }
-                            }
-                            
-                            
-                        }
-                        //321 319
-                        else if (((y == 13 || ((y >= 19) && (y <= 25))) && x == 22))
-                        {
-                            myBitmap = new Bitmap("Res/table22.png");
-                            Graphics g = Graphics.FromImage(myBitmap);
-                            g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
-                            for (int j = 0; j <= 3; ++j)
-                            {
-                                for (int i = 0; i <= 1; ++i)
-                                {
-                                    //fix index[NOT CHECK YET]
-                                    int index = (j) * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x-2) * 4 + (i+2);
-                                    string number = (Program.Globals.levelprint[index] + 1).ToString();
+									if (number.Length == 1)
+									{
+										g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(16 + (i * 79), 9 + j * 78));
+									}
+									else if (number.Length == 2)
+									{
+										g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(-2 + (i * 79), 9 + j * 78));
+									}
+								}
+							}
+							for (int j = 0; j <= 3; ++j)
+							{
+								for (int i = 0; i <= 1; ++i)
+								{
+									int index = j * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x - 1) * 4 + i;
+									string number = (Program.Globals.levelprint[index] + 1).ToString();
 
-                                    if (number.Length == 1)
-                                    {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(294 + i * 68, 9 + j * 78));
-                                    }
-                                    else if (number.Length == 2)
-                                    {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(285 + i * 68, 9 + j * 78));
-                                    }
-                                }
-                            }
-                            for (int j = 0; j <= 3; ++j)
-                            {
-                                for (int i = 0; i <= 3; ++i)
-                                {
-                                    int index = j * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x - 1) * 4 + i;
-                                    string number = (Program.Globals.levelprint[index] + 1).ToString();
+									if (number.Length == 1)
+									{
+										g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(174 + (i * 79), 9 + j * 78));
+									}
+									else if (number.Length == 2)
+									{
+										g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(154 + (i * 79), 9 + j * 78));
+									}
+								}
+							}
 
-                                    if (number.Length == 1)
-                                    {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(16 + i * 72, 9 + j * 78));
-                                    }
-                                    else if (number.Length == 2)
-                                    {
-                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(-2 + i * 72, 9 + j * 78));
-                                    }
-                                }
-                            }
-                            
 
-                        }
-                        else
+						}
+						else //normal shiz
                         {
                             myBitmap = new Bitmap("Res/table.png");
                             Graphics g = Graphics.FromImage(myBitmap);
@@ -230,29 +188,12 @@ namespace _16_RecentItems
                         a44.DrawImage(myBitmap, new Point((465) * (honx - 1) + 80, (410) * (very) + 225));
                         if (Program.Globals.levelshut[last1] != 0)
                         {
-                            if ((((y == 13 || ((y >= 19) && (y <= 25))) && ((x == 22) || (x == 20)))))
-                            {
-                                a44.DrawImage(myBitmap1, new Point((30 + 435) * (honx - 1) + 400, (410) * (very) + 143));
-                            }
-                            else
-                            {
+                            
                                 a44.DrawImage(myBitmap1, new Point((30 + 435) * (honx - 1) + 400, (410) * (very) + 463));
-                            }
+                            
                         }
                         a44.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
-                        if (((y == 13 || ((y >= 19) && (y <= 25))) && x == 22 || x == 20))
-                        {
-                            if ((table+35).ToString().Length == 1)
-                            {
-                                a44.DrawString((table + 35).ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 282, (410) * (very) + 161));
-                            }
-                            else if ((table + 35).ToString().Length == 2)
-                            {
-                                a44.DrawString((table + 35).ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 270, (410) * (very) + 161));
-                            }
-                        }
-                        else
-                        {
+                        
                             if (table.ToString().Length == 1)
                             {
                                 a44.DrawString(table.ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 220, (410) * (very) + 161));
@@ -261,7 +202,7 @@ namespace _16_RecentItems
                             {
                                 a44.DrawString(table.ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 210, (410) * (very) + 161));
                             }
-                        }
+                        
                         
                         myBitmap.Dispose();
                         myBitmap1.Dispose();
