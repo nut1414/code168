@@ -212,7 +212,6 @@ C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-1
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-1)\obj\x86\Release\_16_RecentItems.Form9.resources
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-1)\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-1)\obj\x86\Release\16-RecentItems.csproj.GenerateResource.cache
-C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-1)\obj\x86\Release\16-RecentItems.csproj.CoreCompileInputs.cache
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-1)\obj\x86\Release\16-RecentItems.csproj.CopyComplete
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-1)\obj\x86\Release\BCC Code 168 (1-1).exe
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-1)\obj\x86\Release\BCC Code 168 (1-1).pdb

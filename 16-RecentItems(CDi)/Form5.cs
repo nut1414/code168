@@ -110,13 +110,13 @@ namespace _16_RecentItems
                     {
 
                         posy++;
-                        if (table.ToString().Length == 1)
+                        if (table.ToString().Length == 1)// code number allignment
                         {
-                            a44.DrawString(table.ToString(), new Font("Quark", 20), Brushes.Black, new PointF(150, (205) * (posy) + 280));
+                            a44.DrawString(table.ToString(), new Font("Quark", 20), Brushes.Black, new PointF(155, (202) * (posy) + 280));
                         }
                         else if (table.ToString().Length == 2)
                         {
-                            a44.DrawString(table.ToString(), new Font("Quark", 20), Brushes.Black, new PointF(140, (205) * (posy) + 280));
+                            a44.DrawString(table.ToString(), new Font("Quark", 20), Brushes.Black, new PointF(145, (201) * (posy) + 280));
                         }
                         //making leading
                         Bitmap myBitmap2 = new Bitmap("Res/table.png");
@@ -203,7 +203,7 @@ namespace _16_RecentItems
             DialogResult result = openFileDialog1.ShowDialog();
             if (result == DialogResult.OK)
             {
-                if (listView1.Items.Count + openFileDialog1.FileNames.Length <= 40)
+                if (listView1.Items.Count + openFileDialog1.FileNames.Length <= 16)
                 {
                     foreach (String file in openFileDialog1.FileNames)
                     {
@@ -211,9 +211,9 @@ namespace _16_RecentItems
                         listView1.Items[listView1.Items.Count - 1].SubItems.Add(file.ToString());
                     }
                 }
-                else if (listView1.Items.Count + openFileDialog1.FileNames.Length > 40)
+                else if (listView1.Items.Count + openFileDialog1.FileNames.Length > 16)
                 {
-                    MessageBox.Show("Max is 40 codes per page.");
+                    MessageBox.Show("Max is 16 codes per page.");
                 }
             }
             for (int check = 1; check <= Convert.ToInt32(listView1.Items.Count.ToString()); ++check)
