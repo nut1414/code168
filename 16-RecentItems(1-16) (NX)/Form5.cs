@@ -111,7 +111,7 @@ namespace _16_RecentItems
 						if ((((y >= 1) && (y <= 13)) || ((y >= 19) && (y <= 26))) && x == 22) //dude experiment
 
 						{
-							myBitmap = new Bitmap("Res/table.png");
+							myBitmap = new Bitmap("Res/table2.png");
 							Graphics g = Graphics.FromImage(myBitmap);
 							g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
 							for (int j = 0; j <= 3; ++j)

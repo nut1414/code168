@@ -108,10 +108,10 @@ namespace _16_RecentItems
                     {
                         Bitmap myBitmap;
                         //xcounter and ycounter
-                        if   (((((y >= 1) && (y <= 4))) && x == 6)) //dude
+                        if   (((((y >= 1) && (y <= 4))) && x == 5)) //dude
 
 						{
-                            myBitmap = new Bitmap("Res/table.png");
+                            myBitmap = new Bitmap("Res/table2.png");
                             Graphics g = Graphics.FromImage(myBitmap);
                             g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
                             for (int j = 0; j <= 3; ++j)

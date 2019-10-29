@@ -162,5 +162,4 @@ C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-1
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\Ribbon.pdb
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\UndoMethods.pdb
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
-C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.CoreCompileInputs.cache
 C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.CopyComplete
