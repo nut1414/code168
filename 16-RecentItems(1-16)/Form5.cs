@@ -150,7 +150,7 @@ namespace _16_RecentItems
                         }
                         a44.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
                         
-                            if (table.ToString().Length == 1)
+                            if (table.ToString().Length == 1)// code number
                             {
                                 a44.DrawString(table.ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 220, (410) * (very) + 161));
                             }

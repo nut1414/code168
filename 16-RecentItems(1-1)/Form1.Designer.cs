@@ -153,7 +153,6 @@
         public System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel3;
         public System.Windows.Forms.VScrollBar vScrollBar1;
         public System.Windows.Forms.HScrollBar hScrollBar1;
-
     }
 }
 
