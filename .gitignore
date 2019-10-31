@@ -9,3 +9,8 @@
 16-RecentItems(Clapping)/bin/x86/Release/clap notfinal.rar
 16-RecentItems(Light)/bin/x86/Release/light not final.rar
 16-RecentItems(1-1)/.vs/16-RecentItems/v16/.suo
+*.ide
+16-RecentItems(Clapping)/.vs/16-RecentItems/v16/.suo
+*.ide
+*.ide-shm
+*.ide-wal
