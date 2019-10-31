@@ -152,14 +152,21 @@ namespace _16_RecentItems
                             Bitmap myBitmap = new Bitmap("Res/table.png");
                             Graphics g = Graphics.FromImage(myBitmap);
                             g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
-                            a44.DrawString((posx).ToString(), new Font("Quark", 12), Brushes.Black, new PointF((120) * (posx-1) + 500, 220 + (posy) * 200));
+                            if (posx.ToString().Length == 1)
+                            {
+                                a44.DrawString((posx).ToString(), new Font("Quark", 12), Brushes.Black, new PointF((120) * (posx - 1) + 465, 220 + (posy) * 200));
+                            }
+                            else if (posx.ToString().Length == 2)
+                            {
+                                a44.DrawString((posx).ToString(), new Font("Quark", 12), Brushes.Black, new PointF((120) * (posx - 1) + 450, 220 + (posy) * 200));
+                            }
                             string number = (Program.Globals.levelprint[boardSize * frame + (int)(y - 1) * Program.Globals.dx[table - 1] + (int)(x - 1)]).ToString();
                             if (number == "0") number = " ";
                             else if (number == "1") number = " ";
                             else if (Convert.ToInt32(number) % 2 == 0) number = "น";
                             else number = "ล";
                             g.DrawString(number, new Font("Quark", 20), Brushes.Black, new PointF(20, 20));
-                            a44.DrawImage(myBitmap, new Point((120) * (posx) + 350,(200) * (posy) + 280));
+                            a44.DrawImage(myBitmap, new Point((120) * (posx) + 310,(200) * (posy) + 280));
                             myBitmap.Dispose();
                         }
                     }

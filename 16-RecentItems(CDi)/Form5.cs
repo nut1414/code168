@@ -154,8 +154,16 @@ namespace _16_RecentItems
                             else if (number == "1") number = " ";
                             else if (number == "2") number = "1";
                             g.DrawString(number, new Font("Quark", 20), Brushes.Black, new PointF(20, 20));
-                            a44.DrawString((posx).ToString(), new Font("Quark", 12), Brushes.Black, new PointF((120) * (posx - 1) + 500, 220 + (posy) * 200));
-                            a44.DrawImage(myBitmap, new Point((120) * (posx) + 350,(200) * (posy) + 280));
+                            if (posx.ToString().Length == 1)
+                            {
+                            a44.DrawString((posx).ToString(), new Font("Quark", 12), Brushes.Black, new PointF((120) * (posx - 1) + 465, 220 + (posy) * 200));
+                            }
+                            else if (posx.ToString().Length == 2)
+                            {
+                            a44.DrawString((posx).ToString(), new Font("Quark", 12), Brushes.Black, new PointF((120) * (posx - 1) + 450, 220 + (posy) * 200));
+                            }
+                            
+                            a44.DrawImage(myBitmap, new Point((120) * (posx) + 310,(200) * (posy) + 280));
                             myBitmap.Dispose();
                         }
                     }
