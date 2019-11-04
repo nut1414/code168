@@ -50,6 +50,8 @@
             this.listView1 = new System.Windows.Forms.ListView();
             this.Number = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.Directory = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.label7 = new System.Windows.Forms.Label();
+            this.button6 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown4)).BeginInit();
@@ -136,6 +138,8 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.button6);
+            this.groupBox2.Controls.Add(this.label7);
             this.groupBox2.Controls.Add(this.numericUpDown4);
             this.groupBox2.Controls.Add(this.numericUpDown3);
             this.groupBox2.Controls.Add(this.numericUpDown2);
@@ -306,6 +310,7 @@
             this.Directory});
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
+            this.listView1.HideSelection = false;
             this.listView1.Location = new System.Drawing.Point(12, 10);
             this.listView1.MultiSelect = false;
             this.listView1.Name = "listView1";
@@ -323,6 +328,26 @@
             // 
             this.Directory.Text = "Directory";
             this.Directory.Width = 324;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(93, 1);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(184, 13);
+            this.label7.TabIndex = 10;
+            this.label7.Text = "Row:A-M, S-Z  Column:21 Plate: 1:24";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(19, 66);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(47, 48);
+            this.button6.TabIndex = 10;
+            this.button6.Text = "C1-1 R1-1";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // Form5
             // 
@@ -376,5 +401,7 @@
         private System.Windows.Forms.ColumnHeader Directory;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button button6;
     }
 }

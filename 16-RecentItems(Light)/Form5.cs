@@ -364,6 +364,15 @@ namespace _16_RecentItems
         {
             label6.Text = "(" + Char.ConvertFromUtf32((int)(numericUpDown4.Value + 64)).ToString() + ")";
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            radioButton2.Checked = true;
+            numericUpDown1.Value = 1;
+            numericUpDown2.Value = 1;
+            numericUpDown3.Value = 1;
+            numericUpDown4.Value = 1;
+        }
     }
 }
 

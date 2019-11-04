@@ -108,8 +108,56 @@ namespace _16_RecentItems
                     {
                         Bitmap myBitmap;
 						//xcounter and ycounter
-						
+						if ( ( ((y >= 1) && (y <= 13)) || ((y >= 19) && (y <= 26)) ) && x == 21) //dude experiment
 
+						{
+                            //MessageBox.Show("Before Res");
+                            myBitmap = new Bitmap("Res/table2.png");
+                            //MessageBox.Show("After Res");
+                            Graphics g = Graphics.FromImage(myBitmap);
+							g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
+							for (int j = 0; j <= 3; ++j)
+							{
+								for (int i = 0; i <= 1; ++i)//extra table ex
+								{
+									//major revamp dude  now using one page instead of spliting on to 2 page
+									int index = (j) * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x - 1) * 4 + (i) + 2;
+									string number = (Program.Globals.levelprint[index] + 1).ToString();
+
+									if (number.Length == 1)
+									{
+										g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(16 + (i * 79), 9 + j * 78));
+									}
+									else if (number.Length == 2)
+									{
+										g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(-2 + (i * 79), 9 + j * 78));
+									}
+								}
+							}
+							for (int j = 0; j <= 3; ++j)
+							{
+								for (int i = 0; i <= 1; ++i)
+								{
+									int index = j * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x - 1) * 4 + i;
+									string number = (Program.Globals.levelprint[index] + 1).ToString();
+                                    
+									if (number.Length == 1)
+									{
+										g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(174 + (i * 79), 9 + j * 78));
+									}
+									else if (number.Length == 2)
+									{
+										g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(154 + (i * 79), 9 + j * 78));
+									}
+								}
+							}
+
+
+						}           
+
+
+						else
+						{
                             myBitmap = new Bitmap("Res/table.png");
                             Graphics g = Graphics.FromImage(myBitmap);
                             g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
@@ -130,7 +178,7 @@ namespace _16_RecentItems
                                     }
                                 }
                             }
-                        
+                        }
                         Bitmap myBitmap1 = new Bitmap("Res/table1.png");
                         Graphics g1 = Graphics.FromImage(myBitmap1);
                         g1.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
@@ -150,7 +198,7 @@ namespace _16_RecentItems
                         }
                         a44.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
                         
-                            if (table.ToString().Length == 1)// code number
+                            if (table.ToString().Length == 1)
                             {
                                 a44.DrawString(table.ToString(), new Font("Quark", 14), Brushes.Black, new PointF((27 + 435) * (honx - 1) + 220, (410) * (very) + 161));
                             }
@@ -358,6 +406,26 @@ namespace _16_RecentItems
         private void numericUpDown4_ValueChanged(object sender, EventArgs e)
         {
             label6.Text = "(" + Char.ConvertFromUtf32((int)(numericUpDown4.Value + 64)).ToString() + ")";
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            
+            
+            
+               Random random = new Random();
+            Color rndColor = Color.FromArgb(random.Next(0, 255), random.Next(0, 255), random.Next(0, 255));
+            label7.ForeColor = rndColor;
+            
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            radioButton2.Checked = true;
+            numericUpDown1.Value = 1;
+            numericUpDown2.Value = 1;
+            numericUpDown3.Value = 1;
+            numericUpDown4.Value = 1;
         }
     }
 }

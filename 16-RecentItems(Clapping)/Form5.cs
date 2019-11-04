@@ -170,6 +170,15 @@ namespace _16_RecentItems
                             myBitmap.Dispose();
                         }
                     }
+                    radioButton2.Checked = true;
+                    numericUpDown1.Value = 1;
+                    numericUpDown2.Value = 1;
+                    numericUpDown3.Value = 1;
+                    numericUpDown4.Value = 1; radioButton2.Checked = true;
+                    numericUpDown1.Value = 1;
+                    numericUpDown2.Value = 1;
+                    numericUpDown3.Value = 1;
+                    numericUpDown4.Value = 1;
                 }
                 Graphics text = Graphics.FromImage(a4);
                 text.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
@@ -363,6 +372,24 @@ namespace _16_RecentItems
         private void numericUpDown4_ValueChanged(object sender, EventArgs e)
         {
             label6.Text = "(" + Char.ConvertFromUtf32((int)(numericUpDown4.Value + 64)).ToString() + ")";
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            radioButton2.Checked = true;
+            numericUpDown1.Value = 1;
+            numericUpDown2.Value = 1;
+            numericUpDown3.Value = 1;
+            numericUpDown4.Value = 1;
+        }
+
+        private void button6_Click_1(object sender, EventArgs e)
+        {
+            radioButton2.Checked = true;
+            numericUpDown1.Value = 1;
+            numericUpDown2.Value = 1;
+            numericUpDown3.Value = 1;
+            numericUpDown4.Value = 1;
         }
     }
 }
