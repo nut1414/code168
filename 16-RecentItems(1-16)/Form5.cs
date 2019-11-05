@@ -480,7 +480,7 @@ namespace _16_RecentItems
         {
             radioButton2.Checked = true;
             numericUpDown1.Value = 1;
-            numericUpDown2.Value = 25;
+            numericUpDown2.Value = 50;
             if (checkBox1.Checked == true)
             {
                 
