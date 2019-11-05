@@ -321,6 +321,10 @@ namespace _16_RecentItems
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
+            //new
+            checkBox1.Checked = false;
+            checkBox1.Enabled = false;
+            //
             numericUpDown1.Enabled = false;
             numericUpDown2.Enabled = false;
             numericUpDown3.Enabled = false;
@@ -341,11 +345,19 @@ namespace _16_RecentItems
             label2.Enabled = true;
             label3.Enabled = true;
             label4.Enabled = true;
+            //new
+            checkBox1.Enabled = true;
         }
+
 
         private void numericUpDown3_ValueChanged(object sender, EventArgs e)
         {
             label5.Text = "(" + Char.ConvertFromUtf32((int)(numericUpDown3.Value + 64)).ToString() + ")";
+            if (checkBox1.Checked == true)
+            {
+                numericUpDown4.Value = numericUpDown3.Value;
+
+            }
         }
 
         private void numericUpDown4_ValueChanged(object sender, EventArgs e)
@@ -360,6 +372,64 @@ namespace _16_RecentItems
             numericUpDown2.Value = 1;
             numericUpDown3.Value = 1;
             numericUpDown4.Value = 1;
+            if (checkBox1.Checked == true)
+            {
+
+                numericUpDown4.Value = numericUpDown3.Value;
+            }
+        }
+        private void button7_Click(object sender, EventArgs e)
+        {
+            radioButton2.Checked = true;
+            numericUpDown1.Value = 21;
+            numericUpDown2.Value = 21;
+            numericUpDown3.Value = 1;
+            numericUpDown4.Value = 13;
+            if (checkBox1.Checked == true)
+            {
+
+                numericUpDown4.Value = numericUpDown3.Value;
+            }
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            radioButton2.Checked = true;
+            numericUpDown1.Value = 21;
+            numericUpDown2.Value = 21;
+            numericUpDown3.Value = 19;
+            numericUpDown4.Value = 25;
+            if (checkBox1.Checked == true)
+            {
+
+                numericUpDown4.Value = numericUpDown3.Value;
+            }
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            radioButton2.Checked = true;
+            numericUpDown1.Value = 1;
+            numericUpDown2.Value = 25;
+            if (checkBox1.Checked == true)
+            {
+
+                numericUpDown4.Value = numericUpDown3.Value;
+            }
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked == true)
+            {
+                numericUpDown4.Enabled = false;
+                numericUpDown4.Value = numericUpDown3.Value;
+            }
+            if (checkBox1.Checked == false)
+            {
+                numericUpDown4.Enabled = true;
+                // numericUpDown4.Value = numericUpDown3.Value;
+            }
         }
     }
 }
