@@ -170,7 +170,7 @@ namespace _16_RecentItems
                             myBitmap.Dispose();
                         }
                     }
-                    radioButton2.Checked = true;
+                    /*radioButton2.Checked = true;
                     numericUpDown1.Value = 1;
                     numericUpDown2.Value = 1;
                     numericUpDown3.Value = 1;
@@ -178,7 +178,7 @@ namespace _16_RecentItems
                     numericUpDown1.Value = 1;
                     numericUpDown2.Value = 1;
                     numericUpDown3.Value = 1;
-                    numericUpDown4.Value = 1;
+                    numericUpDown4.Value = 1;*/
                 }
                 Graphics text = Graphics.FromImage(a4);
                 text.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
