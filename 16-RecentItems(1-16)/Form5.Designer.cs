@@ -236,9 +236,9 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(93, 1);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(184, 13);
+            this.label7.Size = new System.Drawing.Size(159, 13);
             this.label7.TabIndex = 10;
-            this.label7.Text = "Row:A-M, S-Y  Column:21 Plate: 1:24";
+            this.label7.Text = "Row:A-Y  Column:21 Plate: 1:32";
             this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // numericUpDown4

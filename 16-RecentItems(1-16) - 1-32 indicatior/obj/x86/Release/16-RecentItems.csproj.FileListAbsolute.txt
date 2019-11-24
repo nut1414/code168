@@ -1,0 +1,221 @@
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\Ribbon.dll
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\sfmlnet-audio-2.dll
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\sfmlnet-graphics-2.dll
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\sfmlnet-window-2.dll
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\Ribbon.pdb
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\16-RecentItems.csprojResolveAssemblyReference.cache
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\16-RecentItems.csproj.GenerateResource.Cache
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form2.resources
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form3.resources
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form1.resources
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\csfml-audio-2.dll
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\csfml-graphics-2.dll
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\csfml-network-2.dll
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\csfml-system-2.dll
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\csfml-window-2.dll
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\16-RecentItems.csproj.ResolveComReference.cache
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form4.resources
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form5.resources
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form6.resources
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form7.resources
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form8.resources
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form9.resources
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\BCC code 163.exe.config
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\BCC code 163.exe
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\BCC code 163.pdb
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\BCC code 163.exe
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\BCC code 163.pdb
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\UndoMethods.dll
+C:\Work\Samples\CS\16-RecentItems\bin\x86\Release\UndoMethods.pdb
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
+C:\Work\Samples\CS\16-RecentItems\obj\x86\Release\_16_RecentItems.Form10.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\BCC code 163.exe.config
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.ResolveComReference.cache
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\BCC code 163.exe
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\BCC code 163.pdb
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-audio-2.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-graphics-2.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-network-2.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-system-2.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-window-2.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\BCC code 163.exe
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\BCC code 163.pdb
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\Ribbon.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\sfmlnet-audio-2.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\sfmlnet-graphics-2.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\sfmlnet-window-2.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\UndoMethods.dll
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\Ribbon.pdb
+C:\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\UndoMethods.pdb
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csprojResolveAssemblyReference.cache
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form1.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form2.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form3.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form4.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form5.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form6.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form7.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form8.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form9.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
+C:\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.GenerateResource.Cache
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-audio-2.dll
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-graphics-2.dll
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-network-2.dll
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-system-2.dll
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-window-2.dll
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\BCC code 163.exe.config
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\BCC code 163.exe
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\BCC code 163.pdb
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\Ribbon.dll
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\Ribbon.pdb
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\UndoMethods.pdb
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csprojResolveAssemblyReference.cache
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.ResolveComReference.cache
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form1.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form2.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form3.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form4.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form5.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form6.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form7.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form8.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form9.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.GenerateResource.Cache
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\BCC code 163.exe
+C:\Users\thape\Downloads\Video\Compressed\Work\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\BCC code 163.pdb
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-audio-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-graphics-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-network-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-system-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\csfml-window-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\BCC code 163.exe.config
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\BCC code 163.exe
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\BCC code 163.pdb
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\Ribbon.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\Ribbon.pdb
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\bin\x86\Release\UndoMethods.pdb
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csprojResolveAssemblyReference.cache
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.ResolveComReference.cache
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form1.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form2.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form3.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form4.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form5.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form6.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form7.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form8.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form9.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.GenerateResource.Cache
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\BCC code 163.exe
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems(1-16)\obj\x86\Release\BCC code 163.pdb
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\csfml-audio-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\csfml-graphics-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\csfml-network-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\csfml-system-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\csfml-window-2.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\Ribbon.dll
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\Ribbon.pdb
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\UndoMethods.pdb
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\16-RecentItems.csprojResolveAssemblyReference.cache
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\16-RecentItems.csproj.ResolveComReference.cache
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Form1.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Form2.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Form3.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Form4.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Form5.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Form6.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Form7.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Form8.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Form9.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\16-RecentItems.csproj.GenerateResource.Cache
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\BCC code 166.exe.config
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\BCC code 166.exe
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\bin\x86\Release\BCC code 166.pdb
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\BCC code 166.exe
+C:\Users\thape\Dropbox\jtr28\program\Samples\CS\16-RecentItems (1-16 with shongund)\obj\x86\Release\BCC code 166.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csprojAssemblyReference.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.ResolveComReference.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form1.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form2.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form3.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form4.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form5.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form6.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form7.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form8.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Form9.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.GenerateResource.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\csfml-audio-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\csfml-graphics-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\csfml-network-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\csfml-system-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\csfml-window-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\Ribbon.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\UndoMethods.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.CopyComplete
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\csfml-audio-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\csfml-graphics-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\csfml-network-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\csfml-system-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\csfml-window-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\BCC code 166.exe.config
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\BCC code 166.exe
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\BCC code 166.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\Ribbon.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\bin\x86\Release\UndoMethods.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\16-RecentItems.csprojAssemblyReference.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\16-RecentItems.csproj.ResolveComReference.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Form1.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Form2.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Form3.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Form4.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Form5.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Form6.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Form7.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Form8.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Form9.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\16-RecentItems.csproj.GenerateResource.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\16-RecentItems.csproj.CopyComplete
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\BCC code 166.exe
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) No DoublePlate\obj\x86\Release\BCC code 166.pdb
+C:\Users\ASUS\Desktop\code168-master\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\code168-master\16-RecentItems(1-16)\obj\x86\Release\16-RecentItems.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\code168-master\16-RecentItems(1-16)\obj\x86\Release\BCC code 166.exe
+C:\Users\ASUS\Desktop\code168-master\16-RecentItems(1-16)\obj\x86\Release\BCC code 166.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\BCC Code 168 (1-16).exe.config
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\BCC Code 168 (1-16).exe
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\bin\x86\Release\BCC Code 168 (1-16).pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\BCC Code 168 (1-16).exe
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16)\obj\x86\Release\BCC Code 168 (1-16).pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\csfml-audio-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\csfml-graphics-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\csfml-network-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\csfml-system-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\csfml-window-2.dll
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\BCC Code 168 (1-16).exe.config
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\BCC Code 168 (1-16).exe
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\BCC Code 168 (1-16).pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\Ribbon.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\bin\x86\Release\UndoMethods.pdb
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\16-RecentItems.csprojAssemblyReference.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\16-RecentItems.csproj.ResolveComReference.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Form1.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Form2.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Form3.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Form4.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Form5.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Form6.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Form7.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Form8.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Form9.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\_16_RecentItems.Properties.Resources.resources
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\16-RecentItems.csproj.GenerateResource.cache
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\16-RecentItems.csproj.CopyComplete
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\BCC Code 168 (1-16).exe
+C:\Users\nut_2\Desktop\program source code 166\Samples\CS\168\16-RecentItems(1-16) - 1-32 indicatior\obj\x86\Release\BCC Code 168 (1-16).pdb

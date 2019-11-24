@@ -108,9 +108,33 @@ namespace _16_RecentItems
                     {
                         Bitmap myBitmap;
 						//xcounter and ycounter
-						if ( ( ((y >= 1) && (y <= 13)) || ((y >= 19) && (y <= 25)) ) && x == 21) //dude experiment
+						if  ((y >= 1) && (y <= 25) && (x == 21)) //dude experiment
 
-						{
+                        {
+                            Graphics.FromImage(a4).DrawString("1:32*", new Font("Quark", 12), Brushes.Black, new PointF(2150, 130)); ;
+                            myBitmap = new Bitmap("Res/table2.png");
+                            Graphics g = Graphics.FromImage(myBitmap);
+                            g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAlias;
+                            for (int j = 0; j <= 3; ++j)
+                            {
+                                for (int i = 0; i <= 5; ++i)//table ex
+                                {
+                                    int index = j * Program.Globals.dx[table - 1] * 4 + (int)(y - 1) * Program.Globals.dx[table - 1] * 16 + (int)(x - 1) * 4 + i;
+                                    string number = (Program.Globals.levelprint[index] + 1).ToString();
+
+                                    if (number.Length == 1)
+                                    {
+                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(16 + i * 78, 9 + j * 78));
+                                    }
+                                    else if (number.Length == 2)
+                                    {
+                                        g.DrawString(number, new Font("Quark", 14), Brushes.Black, new PointF(-2 + i * 78, 9 + j * 78));
+                                    }
+                                }
+                            }
+
+
+                            /*
                             //MessageBox.Show("Before Res");
                             myBitmap = new Bitmap("Res/table2.png");
                             //MessageBox.Show("After Res");
@@ -151,12 +175,12 @@ namespace _16_RecentItems
 									}
 								}
 							}
+                            */
+
+                        }
 
 
-						}           
-
-
-						else
+                        else
 						{
                             myBitmap = new Bitmap("Res/table.png");
                             Graphics g = Graphics.FromImage(myBitmap);
